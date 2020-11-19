@@ -33,8 +33,13 @@ Each column value was coded according to a chart given in the underlying data so
 Similar tables can be found at <a href = "https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Demographics&CycleBeginYear=2005"> this link</a> for the demographic columns. 
 ## Visualization
 
+To begin with, I made a scatterplot of the various food frequency scores for the two food categories to see if there really were people who liked to eat both equally. This result shows that almost every possible category is filled, falsifying my classmate's hypothesis. 
+
+
 ## Analysis
+
+I also further separated the dataset into people who loved or hated both food items and made histograms of their ages to see if there were any differences. 
   
 ## Descriptions of Code and Materials
-The raw data downloaded from the sources described above is contained in the `Raw_Data` folder, while the .csv files generated as a result of the processing procedures are contained in `Processed_Data`. There is one Jupyter notebook for each legislative body that does the processing and generates the relevant figures. 
+The raw data downloaded from the sources described above are uploaded in .csv form as 2005_food and 2005_demo. The processed data with better column names and only the relevant rows and columns is uploaded as processed_data and the notebook used to do the processing and make the plots is uploaded as cornedbeefpickles.ipynb. 
 
