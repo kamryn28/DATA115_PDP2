@@ -35,10 +35,7 @@ Similar tables can be found at <a href = "https://wwwn.cdc.gov/nchs/nhanes/Searc
 
 To begin with, I made a scatterplot of the various food frequency scores for the two food categories to see if there really were people who liked to eat both equally. This result shows that almost every possible category is filled, falsifying my classmate's hypothesis. 
 
-
-## Analysis
-
-I also further separated the dataset into people who loved or hated both food items and made histograms of their ages to see if there were any differences. 
+<img src = "https://raw.githubusercontent.com/drdeford/DATA115_PDP2/main/cbp_scatter.png">
   
 ## Descriptions of Code and Materials
 The raw data downloaded from the sources described above are uploaded in .csv form as 2005_food and 2005_demo. The processed data with better column names and only the relevant rows and columns is uploaded as processed_data and the notebook used to do the processing and make the plots is uploaded as cornedbeefpickles.ipynb. 
