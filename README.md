@@ -37,7 +37,7 @@ To begin with, I made a scatterplot of the various food frequency scores for the
 
 <img src = "https://raw.githubusercontent.com/drdeford/DATA115_PDP2/main/cbp_scatter.png">
 
-##Analysis
+## Analysis
 
 Having answered the initial question, I started to wonder if there were demographic features that distinguished the groups who either hated or liked both types of food. I began by separating the data into two sets: one for people who never ate either product and one for people who ate both at least once per week. The plots below show the histograms of ages of people in these two categories: 
 
