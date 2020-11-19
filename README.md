@@ -36,7 +36,15 @@ Similar tables can be found at <a href = "https://wwwn.cdc.gov/nchs/nhanes/Searc
 To begin with, I made a scatterplot of the various food frequency scores for the two food categories to see if there really were people who liked to eat both equally. This result shows that almost every possible category is filled, falsifying my classmate's hypothesis. 
 
 <img src = "https://raw.githubusercontent.com/drdeford/DATA115_PDP2/main/cbp_scatter.png">
-  
+
+##Analysis
+
+Having answered the initial question, I started to wonder if there were demographic features that distinguished the groups who either hated or liked both types of food. I began by separating the data into two sets: one for people who never ate either product and one for people who ate both at least once per week. The plots below show the histograms of ages of people in these two categories: 
+
+<img src = "https://raw.githubusercontent.com/drdeford/DATA115_PDP2/main/haters_hist.png">
+
+<img src = "https://raw.githubusercontent.com/drdeford/DATA115_PDP2/main/lovers_hist.png">
+
 ## Descriptions of Code and Materials
 The raw data downloaded from the sources described above are uploaded in .csv form as 2005_food and 2005_demo. The processed data with better column names and only the relevant rows and columns is uploaded as processed_data and the notebook used to do the processing and make the plots is uploaded as cornedbeefpickles.ipynb. 
 
