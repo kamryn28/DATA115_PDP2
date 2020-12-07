@@ -45,6 +45,10 @@ Having answered the initial question, I started to wonder if there were demograp
 
 <img src = "https://raw.githubusercontent.com/drdeford/DATA115_PDP2/main/lovers_hist.png">
 
+<img width="327" alt="boxplot_crop" src="https://user-images.githubusercontent.com/71746406/101310493-de442f80-3803-11eb-992b-cb6fde5484cc.png">
+
+<img width="341" alt="boxplot_variety" src="https://user-images.githubusercontent.com/71746406/101310510-e7cd9780-3803-11eb-94b8-be2a7bab53f3.png">
+
 ## Descriptions of Code and Materials
 The raw data downloaded from the sources described above are uploaded in .csv form as 2005_food and 2005_demo. The processed data with better column names and only the relevant rows and columns is uploaded as processed_data and the notebook used to do the processing and make the plots is uploaded as cornedbeefpickles.ipynb. 
 
